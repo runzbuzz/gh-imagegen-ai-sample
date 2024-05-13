@@ -1,6 +1,7 @@
 # ImageGen AI
 
-[ImageGen AI Logo](./logo.webp)
+![ImageGen AI Logo!](./logo.webp "ImageGen AI Logo")
+
 
 ## Explore the Future of Digital Art with ImageGen!
 

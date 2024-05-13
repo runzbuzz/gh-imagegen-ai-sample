@@ -21,5 +21,3 @@ captivating images that reflect your creative intent.
 - [App Store:](https://apps.apple.com/kw/app/imagegen-ai/id6474667964)
 
 *Join the digital creativity revolution with ImageGen, where your imagination is your canvas!*
-</body>
-</html>
